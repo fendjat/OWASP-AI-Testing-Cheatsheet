@@ -1,0 +1,327 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 2094" width="1440" height="2094" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1YTRiN2E3My1mODNiLTRjMGQtODEyYS01NzA4OGYwYzc1MzMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJ3J+SOjaUCyRpJKafroxmAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4M2U2ODUyMy0yODY5LTQwNjUtYTk2MS1hODcxNjM4NTMyZWVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo5rbuzvRNHPIkWNL1YZYBJQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggRbPENFtjFDhxaGFas577q9wkTn+78SB2Rg36PuIwp7akZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaE0Uh1WDSlR1HGezGx2Ebl8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCC72gaCk82BgM4xmQ2Vs9d+UAnVwAFHVyFm7gLJ0qhnfWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjVZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjVhNGI3YTczLWY4M2ItNGMwZC04MTJhLTU3MDg4ZjBjNzUzMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjYxZTMzYjFiLTVlMjYtNGRiMy1iYmJjLWE4YjFkNTlmMzcyOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBFs8Q0W2MUOHFoYVqznvur3CROf7vxIHZGDfo+4jCntqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg2KXMAsfw21XCSCpK+6wQ7JfxImXxoQ0xZOMUVoDC3++iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggAUr1bQWbyatbUDTRH3Jhd/ZwwMTguccCDjqErU2vR3N0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGkyCVud+yDfayr02zTSHpwei6XxKkNb84VvhNpbp+PeMviOBPFkXUEvNpyldcrqMdJAddkZ3+euKn0fCIZRxPI=</c2pa:manifest></metadata>
+<title>SAIF threat model: OWASP AI threats mapped to AI system components</title>
+<desc>Vector redraw of Fig. 2 from the OWASP AI Testing Guide (CC BY-SA 4.0), based on Google's Secure AI Framework (SAIF), with a key to the threat codes.</desc>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L10,5 L0,10 z" fill="#161616"/></marker>
+<marker id="ahs" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="7" markerHeight="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M10,0 L0,5 L10,10 z" fill="#161616"/></marker>
+<style>
+.tag rect{fill:#F8CECC;stroke:#B85450;stroke-width:1}
+.tag text{font-size:10.2px;fill:#161616;text-anchor:middle;letter-spacing:.1px}
+.badge{fill:#FFF2CC;stroke:#D6B656;stroke-width:1}
+.badge-t{font-size:10.5px;fill:#161616;text-anchor:middle}
+.lbl{font-weight:700;fill:#161616}
+.flow{fill:none;stroke:#161616;stroke-width:2.2}
+.flow.dot{stroke-dasharray:2 5;stroke-linecap:round;stroke-width:2.4}
+.divider{stroke:#C4C4C4;stroke-width:2}
+.side{font-size:17px;fill:#161616;text-anchor:middle}
+.k-head{font-size:13px;font-weight:700;fill:#161616}
+.k-name{font-size:13px;font-weight:700;fill:#161616}
+.k-src{font-size:11px;fill:#6A6A6A}
+.k-desc{font-size:11.5px;fill:#333}
+.note{font-size:11.5px;fill:#555}
+</style>
+</defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="52" font-size="21" font-weight="700" fill="#161616">SAIF threat model</text>
+<text x="40" y="74" font-size="12.5" fill="#555555">OWASP Top 10 for LLM and AI Exchange threats</text>
+<text x="40" y="91" font-size="12.5" fill="#555555">mapped to the components of a SAIF baseline architecture</text>
+<rect x="192" y="131" width="12" height="248" fill="#56B9EE"/>
+<text class="side" x="268" y="261.0">Application</text>
+<rect x="192" y="391" width="12" height="253" fill="#B23CF2"/>
+<text class="side" x="268" y="523.5">Model</text>
+<rect x="192" y="656" width="12" height="293" fill="#4FAE55"/>
+<text class="side" x="268" y="808.5">Infrastructure</text>
+<rect x="192" y="961" width="12" height="268" fill="#E8821E"/>
+<text class="side" x="268" y="1101.0">Data</text>
+<rect x="166" y="131" width="12" height="514" fill="#B23CF2"/>
+<text class="side" x="92" y="383.5">Model</text>
+<text class="side" x="92" y="404.5">Usage</text>
+<rect x="166" y="656" width="12" height="573" fill="#1E9870"/>
+<text class="side" x="92" y="938.5">Model</text>
+<text class="side" x="92" y="959.5">Creation</text>
+<line class="divider" x1="220" y1="125" x2="1400" y2="125"/>
+<line class="divider" x1="220" y1="385" x2="1400" y2="385"/>
+<line class="divider" x1="220" y1="650" x2="1400" y2="650"/>
+<line class="divider" x1="220" y1="955" x2="1400" y2="955"/>
+<line class="divider" x1="220" y1="1235" x2="1400" y2="1235"/>
+<path class="flow" d="M680,80 L680,180" marker-end="url(#ah)"/>
+<path class="flow" d="M790,180 L790,80" marker-end="url(#ah)"/>
+<path class="flow dot" d="M390,214 L345,214 L345,1188 L388,1188" marker-end="url(#ah)"/>
+<path class="flow" d="M543,250 L543,439" marker-end="url(#ah)"/>
+<path class="flow" d="M953,439 L953,250" marker-end="url(#ah)"/>
+<path class="flow dot" d="M612,350 L612,368 L551,368" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<path class="flow dot" d="M862,350 L862,368 L945,368" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<path class="flow dot" d="M897,311 L1108,311" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<path class="flow" d="M543,490 L543,544" marker-end="url(#ah)"/>
+<path class="flow" d="M953,545 L953,491" marker-end="url(#ah)"/>
+<path class="flow" d="M390,604 L368,604 L368,825 L393,825" marker-end="url(#ah)"/>
+<path class="flow" d="M615,825 L658,825" marker-end="url(#ah)"/>
+<path class="flow" d="M925,825 L882,825" marker-end="url(#ah)"/>
+<path class="flow" d="M742,800 L742,626" marker-end="url(#ah)"/>
+<path class="flow" d="M742,895 L742,851" marker-end="url(#ah)"/>
+<path class="flow" d="M742,1065 L742,1011" marker-end="url(#ah)"/>
+<path class="flow" d="M742,1160 L742,1111" marker-end="url(#ah)"/>
+<path class="flow dot" d="M742,1218 L742,1275" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<rect x="590" y="30" width="260" height="50" rx="6" fill="#fff" stroke="#161616" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round"/>
+<text class="lbl" x="683.5225" y="61" font-size="16">USER</text>
+<rect class="badge" x="735.9775000000001" y="48" width="20.5" height="17" rx="2"/><text class="badge-t" x="746.2275000000001" y="60.5">(1)</text>
+<rect class="badge" x="646" y="125" width="20.5" height="17" rx="2"/><text class="badge-t" x="656.25" y="137.5">(2)</text>
+<rect class="badge" x="800" y="125" width="20.5" height="17" rx="2"/><text class="badge-t" x="810.25" y="137.5">(3)</text>
+<rect x="390" y="180" width="660" height="70" fill="#56B9EE"/>
+<g class="tag"><rect x="398" y="189" width="62" height="17" rx="2"/><text x="429.0" y="201.3">T01-DPIJ</text></g>
+<g class="tag"><rect x="463" y="189" width="62" height="17" rx="2"/><text x="494.0" y="201.3">T01-SID</text></g>
+<g class="tag"><rect x="528" y="189" width="62" height="17" rx="2"/><text x="559.0" y="201.3">T01-DoSM</text></g>
+<g class="tag"><rect x="398" y="211" width="62" height="17" rx="2"/><text x="429.0" y="223.3">T01-IPIJ</text></g>
+<g class="tag"><rect x="463" y="211" width="62" height="17" rx="2"/><text x="494.0" y="223.3">T01-MTU</text></g>
+<g class="tag"><rect x="528" y="211" width="62" height="17" rx="2"/><text x="559.0" y="223.3">T01-IOH</text></g>
+<g class="tag"><rect x="850" y="189" width="62" height="17" rx="2"/><text x="881.0" y="201.3">T01-EA</text></g>
+<g class="tag"><rect x="915" y="189" width="62" height="17" rx="2"/><text x="946.0" y="201.3">T01-SPL</text></g>
+<g class="tag"><rect x="980" y="189" width="62" height="17" rx="2"/><text x="1011.0" y="201.3">T01-MIS</text></g>
+<g class="tag"><rect x="980" y="211" width="62" height="17" rx="2"/><text x="1011.0" y="223.3">T01-IOH</text></g>
+<text class="lbl" x="638.7140625" y="227" font-size="20">APPLICATION</text>
+<rect class="badge" x="780.7859374999999" y="214" width="20.5" height="17" rx="2"/><text class="badge-t" x="791.0359374999999" y="226.5">(4)</text>
+<rect x="575" y="275" width="322" height="74" fill="#56B9EE"/>
+<g class="tag"><rect x="583" y="282" width="62" height="17" rx="2"/><text x="614.0" y="294.3">T01-IPIJ</text></g>
+<g class="tag"><rect x="648" y="282" width="62" height="17" rx="2"/><text x="679.0" y="294.3">T01-SID</text></g>
+<g class="tag"><rect x="713" y="282" width="62" height="17" rx="2"/><text x="744.0" y="294.3">T01-MTD</text></g>
+<g class="tag"><rect x="583" y="303" width="62" height="17" rx="2"/><text x="614.0" y="315.3">T01-EA</text></g>
+<g class="tag"><rect x="583" y="324" width="62" height="17" rx="2"/><text x="614.0" y="336.3">T01-VEW</text></g>
+<text class="lbl" x="704.0828125" y="330" font-size="15">AGENT/PLUGIN</text>
+<rect class="badge" x="825.4171875000001" y="317" width="20.5" height="17" rx="2"/><text class="badge-t" x="835.6671875000001" y="329.5">(5)</text>
+<rect x="1110" y="285" width="270" height="50" rx="6" fill="#fff" stroke="#161616" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round"/>
+<g class="tag"><rect x="1116" y="276" width="62" height="17" rx="2"/><text x="1147.0" y="288.3">T01-IPIJ</text></g>
+<g class="tag"><rect x="1181" y="276" width="62" height="17" rx="2"/><text x="1212.0" y="288.3">T01-MTD</text></g>
+<g class="tag"><rect x="1246" y="276" width="62" height="17" rx="2"/><text x="1277.0" y="288.3">T01-SID</text></g>
+<g class="tag"><rect x="1311" y="276" width="62" height="17" rx="2"/><text x="1342.0" y="288.3">T01-EA</text></g>
+<g class="tag"><rect x="1116" y="326" width="62" height="17" rx="2"/><text x="1147.0" y="338.3">T01-VEW</text></g>
+<g class="tag"><rect x="1181" y="326" width="62" height="17" rx="2"/><text x="1212.0" y="338.3">T01-DMP</text></g>
+<text class="lbl" x="1156.589375" y="316" font-size="14">EXTERNAL SOURCES</text>
+<rect class="badge" x="1312.910625" y="303" width="20.5" height="17" rx="2"/><text class="badge-t" x="1323.160625" y="315.5">(6)</text>
+<rect x="390" y="440" width="240" height="50" fill="#fff" stroke="#6F6F6F" stroke-width="2"/>
+<g class="tag"><rect x="396" y="431" width="62" height="17" rx="2"/><text x="427.0" y="443.3">T01-DPIJ</text></g>
+<g class="tag"><rect x="461" y="431" width="62" height="17" rx="2"/><text x="492.0" y="443.3">T01-AIE</text></g>
+<g class="tag"><rect x="396" y="481" width="62" height="17" rx="2"/><text x="427.0" y="493.3">T01-SID</text></g>
+<g class="tag"><rect x="461" y="481" width="62" height="17" rx="2"/><text x="492.0" y="493.3">T01-DoSM</text></g>
+<g class="tag"><rect x="396" y="501" width="62" height="17" rx="2"/><text x="427.0" y="513.3">T01-LSID</text></g>
+<g class="tag"><rect x="565" y="481" width="62" height="17" rx="2"/><text x="596.0" y="493.3">T01-SPL</text></g>
+<g class="tag"><rect x="565" y="501" width="62" height="17" rx="2"/><text x="596.0" y="513.3">T01-VEW</text></g>
+<text class="lbl" x="431.586328125" y="470" font-size="15">INPUT HANDLING</text>
+<rect class="badge" x="567.9136718750001" y="457" width="20.5" height="17" rx="2"/><text class="badge-t" x="578.1636718750001" y="469.5">(7)</text>
+<rect x="790" y="440" width="260" height="50" fill="#fff" stroke="#6F6F6F" stroke-width="2"/>
+<g class="tag"><rect x="796" y="411" width="62" height="17" rx="2"/><text x="827.0" y="423.3">T01-LSID</text></g>
+<g class="tag"><rect x="796" y="431" width="62" height="17" rx="2"/><text x="827.0" y="443.3">T01-SID</text></g>
+<g class="tag"><rect x="861" y="431" width="62" height="17" rx="2"/><text x="892.0" y="443.3">T01-DoSM</text></g>
+<g class="tag"><rect x="984" y="411" width="62" height="17" rx="2"/><text x="1015.0" y="423.3">T01-SPL</text></g>
+<g class="tag"><rect x="984" y="431" width="62" height="17" rx="2"/><text x="1015.0" y="443.3">T01-IOH</text></g>
+<g class="tag"><rect x="796" y="481" width="62" height="17" rx="2"/><text x="827.0" y="493.3">T01-TDL</text></g>
+<g class="tag"><rect x="796" y="501" width="62" height="17" rx="2"/><text x="827.0" y="513.3">T01-MTU</text></g>
+<g class="tag"><rect x="984" y="481" width="62" height="17" rx="2"/><text x="1015.0" y="493.3">T01-EA</text></g>
+<g class="tag"><rect x="984" y="501" width="62" height="17" rx="2"/><text x="1015.0" y="513.3">T01-MIS</text></g>
+<text class="lbl" x="833.25546875" y="470" font-size="15">OUTPUT HANDLING</text>
+<rect class="badge" x="986.2445312499999" y="457" width="20.5" height="17" rx="2"/><text class="badge-t" x="996.4945312499999" y="469.5">(8)</text>
+<rect x="390" y="545" width="660" height="80" fill="#B23CF2"/>
+<g class="tag"><rect x="395" y="552" width="62" height="17" rx="2"/><text x="426.0" y="564.3">T01-DPIJ</text></g>
+<g class="tag"><rect x="460" y="552" width="62" height="17" rx="2"/><text x="491.0" y="564.3">T01-AIE</text></g>
+<g class="tag"><rect x="525" y="552" width="62" height="17" rx="2"/><text x="556.0" y="564.3">T01-RMP</text></g>
+<g class="tag"><rect x="590" y="552" width="62" height="17" rx="2"/><text x="621.0" y="564.3">T01-SID</text></g>
+<g class="tag"><rect x="655" y="552" width="62" height="17" rx="2"/><text x="686.0" y="564.3">T01-MIMI</text></g>
+<g class="tag"><rect x="720" y="552" width="62" height="17" rx="2"/><text x="751.0" y="564.3">T01-TDL</text></g>
+<g class="tag"><rect x="785" y="552" width="62" height="17" rx="2"/><text x="816.0" y="564.3">T01-MTU</text></g>
+<g class="tag"><rect x="850" y="552" width="62" height="17" rx="2"/><text x="881.0" y="564.3">T01-MTR</text></g>
+<g class="tag"><rect x="395" y="575" width="62" height="17" rx="2"/><text x="426.0" y="587.3">T01-IPIJ</text></g>
+<g class="tag"><rect x="460" y="575" width="62" height="17" rx="2"/><text x="491.0" y="587.3">T01-DPFT</text></g>
+<g class="tag"><rect x="525" y="575" width="62" height="17" rx="2"/><text x="556.0" y="587.3">T01-DMP</text></g>
+<g class="tag"><rect x="850" y="575" width="62" height="17" rx="2"/><text x="881.0" y="587.3">T01-DoSM</text></g>
+<g class="tag"><rect x="915" y="575" width="62" height="17" rx="2"/><text x="946.0" y="587.3">T01-IOH</text></g>
+<g class="tag"><rect x="980" y="575" width="62" height="17" rx="2"/><text x="1011.0" y="587.3">T01-EA</text></g>
+<g class="tag"><rect x="395" y="598" width="62" height="17" rx="2"/><text x="426.0" y="610.3">T01-SCMP</text></g>
+<g class="tag"><rect x="590" y="598" width="62" height="17" rx="2"/><text x="621.0" y="610.3">T01-LSID</text></g>
+<g class="tag"><rect x="655" y="598" width="62" height="17" rx="2"/><text x="686.0" y="610.3">T01-SPL</text></g>
+<g class="tag"><rect x="720" y="598" width="62" height="17" rx="2"/><text x="751.0" y="610.3">T01-VEW</text></g>
+<g class="tag"><rect x="785" y="598" width="62" height="17" rx="2"/><text x="816.0" y="610.3">T01-MIS</text></g>
+<text class="lbl" x="664.53140625" y="590" font-size="22">MODEL</text>
+<rect class="badge" x="751.9685937500001" y="577" width="20.5" height="17" rx="2"/><text class="badge-t" x="762.2185937500001" y="589.5">(9)</text>
+<rect x="390" y="662" width="315" height="52" fill="#4FAE55"/>
+<g class="tag"><rect x="398" y="668" width="62" height="17" rx="2"/><text x="429.0" y="680.3">T01-DPFT</text></g>
+<g class="tag"><rect x="463" y="668" width="62" height="17" rx="2"/><text x="494.0" y="680.3">T01-SCMP</text></g>
+<g class="tag"><rect x="528" y="668" width="62" height="17" rx="2"/><text x="559.0" y="680.3">T01-MTR</text></g>
+<g class="tag"><rect x="593" y="668" width="62" height="17" rx="2"/><text x="624.0" y="680.3">T01-MTD</text></g>
+<text class="lbl" x="419.7196875" y="704" font-size="12">MODEL STORAGE INFRASTRUCTURE</text>
+<rect class="badge" x="647.2803125" y="691" width="27.0" height="17" rx="2"/><text class="badge-t" x="660.7803125" y="703.5">(10)</text>
+<rect x="780" y="662" width="270" height="52" fill="#4FAE55"/>
+<g class="tag"><rect x="786" y="668" width="62" height="17" rx="2"/><text x="817.0" y="680.3">T01-SCMP</text></g>
+<g class="tag"><rect x="851" y="668" width="62" height="17" rx="2"/><text x="882.0" y="680.3">T01-MTU</text></g>
+<g class="tag"><rect x="916" y="668" width="62" height="17" rx="2"/><text x="947.0" y="680.3">T01-MTR</text></g>
+<g class="tag"><rect x="981" y="668" width="62" height="17" rx="2"/><text x="1012.0" y="680.3">T01-DoSM</text></g>
+<text class="lbl" x="790.3821875" y="704" font-size="12">MODEL SERVING INFRASTRUCTURE</text>
+<rect class="badge" x="1012.6178125" y="691" width="27.0" height="17" rx="2"/><text class="badge-t" x="1026.1178125000001" y="703.5">(11)</text>
+<rect x="395" y="800" width="220" height="50" fill="#fff" stroke="#4FAE55" stroke-width="2"/>
+<g class="tag"><rect x="401" y="791" width="62" height="17" rx="2"/><text x="432.0" y="803.3">T01-AIE</text></g>
+<g class="tag"><rect x="466" y="791" width="62" height="17" rx="2"/><text x="497.0" y="803.3">T01-DMP</text></g>
+<g class="tag"><rect x="531" y="791" width="62" height="17" rx="2"/><text x="562.0" y="803.3">T01-SID</text></g>
+<g class="tag"><rect x="531" y="771" width="62" height="17" rx="2"/><text x="562.0" y="783.3">T01-LSID</text></g>
+<g class="tag"><rect x="401" y="841" width="62" height="17" rx="2"/><text x="432.0" y="853.3">T01-TDL</text></g>
+<g class="tag"><rect x="466" y="841" width="62" height="17" rx="2"/><text x="497.0" y="853.3">T01-DoSM</text></g>
+<g class="tag"><rect x="531" y="841" width="62" height="17" rx="2"/><text x="562.0" y="853.3">T01-MIS</text></g>
+<g class="tag"><rect x="401" y="861" width="62" height="17" rx="2"/><text x="432.0" y="873.3">T01-MTU</text></g>
+<g class="tag"><rect x="466" y="861" width="62" height="17" rx="2"/><text x="497.0" y="873.3">T01-IOH</text></g>
+<text class="lbl" x="443.0390625" y="830" font-size="14">EVALUATION</text>
+<rect class="badge" x="539.9609375" y="817" width="27.0" height="17" rx="2"/><text class="badge-t" x="553.4609375" y="829.5">(12)</text>
+<rect x="660" y="800" width="220" height="50" fill="#fff" stroke="#4FAE55" stroke-width="2"/>
+<g class="tag"><rect x="666" y="791" width="62" height="17" rx="2"/><text x="697.0" y="803.3">T01-AIE</text></g>
+<g class="tag"><rect x="812" y="791" width="62" height="17" rx="2"/><text x="843.0" y="803.3">T01-DPFT</text></g>
+<g class="tag"><rect x="812" y="771" width="62" height="17" rx="2"/><text x="843.0" y="783.3">T01-MIS</text></g>
+<g class="tag"><rect x="666" y="841" width="62" height="17" rx="2"/><text x="697.0" y="853.3">T01-SCMP</text></g>
+<g class="tag"><rect x="812" y="841" width="62" height="17" rx="2"/><text x="843.0" y="853.3">T01-MTD</text></g>
+<text class="lbl" x="681.5556640625" y="830" font-size="12.5">TRAINING AND TUNING</text>
+<rect class="badge" x="831.4443359375" y="817" width="27.0" height="17" rx="2"/><text class="badge-t" x="844.9443359375" y="829.5">(13)</text>
+<rect x="925" y="800" width="260" height="50" fill="#fff" stroke="#4FAE55" stroke-width="2"/>
+<g class="tag"><rect x="931" y="791" width="62" height="17" rx="2"/><text x="962.0" y="803.3">T01-SCMP</text></g>
+<g class="tag"><rect x="996" y="791" width="62" height="17" rx="2"/><text x="1027.0" y="803.3">T01-MTD</text></g>
+<g class="tag"><rect x="1061" y="791" width="62" height="17" rx="2"/><text x="1092.0" y="803.3">T01-VEW</text></g>
+<text class="lbl" x="944.9453125" y="830" font-size="12">MODEL FRAMEWORKS &amp; CODE</text>
+<rect class="badge" x="1138.0546875" y="817" width="27.0" height="17" rx="2"/><text class="badge-t" x="1151.5546875" y="829.5">(14)</text>
+<rect x="590" y="895" width="310" height="40" fill="#4FAE55"/>
+<g class="tag"><rect x="598" y="886" width="62" height="17" rx="2"/><text x="629.0" y="898.3">T01-RMP</text></g>
+<g class="tag"><rect x="663" y="886" width="62" height="17" rx="2"/><text x="694.0" y="898.3">T01-DMP</text></g>
+<g class="tag"><rect x="760" y="886" width="62" height="17" rx="2"/><text x="791.0" y="898.3">T01-DPFT</text></g>
+<g class="tag"><rect x="825" y="886" width="62" height="17" rx="2"/><text x="856.0" y="898.3">T01-SCMP</text></g>
+<g class="tag"><rect x="598" y="926" width="62" height="17" rx="2"/><text x="629.0" y="938.3">T01-SID</text></g>
+<g class="tag"><rect x="663" y="926" width="62" height="17" rx="2"/><text x="694.0" y="938.3">T01-MTD</text></g>
+<g class="tag"><rect x="728" y="926" width="62" height="17" rx="2"/><text x="759.0" y="938.3">T01-LSID</text></g>
+<text class="lbl" x="623.724375" y="920" font-size="12">DATA STORAGE INFRASTRUCTURE</text>
+<rect class="badge" x="839.275625" y="907" width="27.0" height="17" rx="2"/><text class="badge-t" x="852.775625" y="919.5">(15)</text>
+<rect x="590" y="968" width="310" height="42" fill="#E8821E"/>
+<g class="tag"><rect x="598" y="1001" width="62" height="17" rx="2"/><text x="629.0" y="1013.3">T01-MIMI</text></g>
+<g class="tag"><rect x="663" y="1001" width="62" height="17" rx="2"/><text x="694.0" y="1013.3">T01-TDL</text></g>
+<g class="tag"><rect x="825" y="1001" width="62" height="17" rx="2"/><text x="856.0" y="1013.3">T01-SID</text></g>
+<text class="lbl" x="669.45234375" y="993" font-size="15">TRAINING DATA</text>
+<rect class="badge" x="793.5476562499999" y="980" width="27.0" height="17" rx="2"/><text class="badge-t" x="807.0476562499999" y="992.5">(16)</text>
+<rect x="560" y="1065" width="365" height="46" fill="#fff" stroke="#E8821E" stroke-width="2"/>
+<g class="tag"><rect x="598" y="1056" width="62" height="17" rx="2"/><text x="629.0" y="1068.3">T01-RMP</text></g>
+<g class="tag"><rect x="663" y="1056" width="62" height="17" rx="2"/><text x="694.0" y="1068.3">T01-DMP</text></g>
+<g class="tag"><rect x="760" y="1056" width="62" height="17" rx="2"/><text x="791.0" y="1068.3">T01-DPFT</text></g>
+<g class="tag"><rect x="825" y="1056" width="62" height="17" rx="2"/><text x="856.0" y="1068.3">T01-SID</text></g>
+<g class="tag"><rect x="620" y="1102" width="62" height="17" rx="2"/><text x="651.0" y="1114.3">T01-MIMI</text></g>
+<g class="tag"><rect x="620" y="1122" width="62" height="17" rx="2"/><text x="651.0" y="1134.3">T01-TDL</text></g>
+<g class="tag"><rect x="800" y="1102" width="62" height="17" rx="2"/><text x="831.0" y="1114.3">T01-VEW</text></g>
+<g class="tag"><rect x="800" y="1122" width="62" height="17" rx="2"/><text x="831.0" y="1134.3">T01-MIS</text></g>
+<text class="lbl" x="624.3837890625" y="1094" font-size="12.5">DATA FILTERING &amp; PROCESSING</text>
+<rect class="badge" x="832.6162109375" y="1081" width="27.0" height="17" rx="2"/><text class="badge-t" x="846.1162109375" y="1093.5">(17)</text>
+<rect x="390" y="1160" width="660" height="56" fill="#E8821E"/>
+<g class="tag"><rect x="400" y="1168" width="62" height="17" rx="2"/><text x="431.0" y="1180.3">T01-SID</text></g>
+<g class="tag"><rect x="465" y="1168" width="62" height="17" rx="2"/><text x="496.0" y="1180.3">T01-DMP</text></g>
+<g class="tag"><rect x="400" y="1190" width="62" height="17" rx="2"/><text x="431.0" y="1202.3">T01-VEW</text></g>
+<g class="tag"><rect x="465" y="1190" width="62" height="17" rx="2"/><text x="496.0" y="1202.3">T01-MIS</text></g>
+<text class="lbl" x="658.071171875" y="1195" font-size="17">DATA SOURCES</text>
+<rect class="badge" x="798.928828125" y="1182" width="27.0" height="17" rx="2"/><text class="badge-t" x="812.428828125" y="1194.5">(18)</text>
+<rect x="580" y="1285" width="325" height="50" rx="6" fill="#fff" stroke="#161616" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round"/>
+<g class="tag"><rect x="600" y="1276" width="62" height="17" rx="2"/><text x="631.0" y="1288.3">T01-MIMI</text></g>
+<g class="tag"><rect x="665" y="1276" width="62" height="17" rx="2"/><text x="696.0" y="1288.3">T01-SID</text></g>
+<g class="tag"><rect x="760" y="1276" width="62" height="17" rx="2"/><text x="791.0" y="1288.3">T01-DMP</text></g>
+<g class="tag"><rect x="825" y="1276" width="62" height="17" rx="2"/><text x="856.0" y="1288.3">T01-MIS</text></g>
+<text class="lbl" x="645.0421875" y="1318" font-size="15">EXTERNAL SOURCES</text>
+<rect class="badge" x="811.9578124999999" y="1305" width="27.0" height="17" rx="2"/><text class="badge-t" x="825.4578124999999" y="1317.5">(19)</text>
+<line x1="40" y1="1380" x2="1400" y2="1380" stroke="#161616" stroke-width="1.5"/>
+<text x="40" y="1416" font-size="19" font-weight="700" fill="#161616">Key to threat codes</text>
+<text x="40" y="1438" class="note">Every tag reads T01-&lt;code&gt;. The grey line under each entry is the OWASP Top 10 for LLM (2025) or OWASP AI Exchange item it maps to.</text>
+<text class="k-head" x="40" y="1484">Prompt and input manipulation</text>
+<line x1="40" y1="1491" x2="470" y2="1491" stroke="#D5D5D5" stroke-width="1"/>
+<g class="tag"><rect x="40" y="1504" width="62" height="17" rx="2"/><text x="71.0" y="1516.3">T01-DPIJ</text></g>
+<text class="k-name" x="114" y="1516">Direct Prompt Injection</text>
+<text class="k-desc" x="114" y="1531">User-typed instructions override the system prompt</text>
+<text class="k-src" x="114" y="1545">LLM01 Prompt Injection</text>
+<g class="tag"><rect x="40" y="1554" width="62" height="17" rx="2"/><text x="71.0" y="1566.3">T01-IPIJ</text></g>
+<text class="k-name" x="114" y="1566">Indirect Prompt Injection</text>
+<text class="k-desc" x="114" y="1581">Hidden instructions arrive via pages, files or tool results</text>
+<text class="k-src" x="114" y="1595">LLM01 Prompt Injection</text>
+<g class="tag"><rect x="40" y="1604" width="62" height="17" rx="2"/><text x="71.0" y="1616.3">T01-AIE</text></g>
+<text class="k-name" x="114" y="1616">Adversarial Input Evasion</text>
+<text class="k-desc" x="114" y="1631">Crafted inputs slip past filters and mislead the model</text>
+<text class="k-src" x="114" y="1645">AI Exchange 2.1 Evasion</text>
+<text class="k-head" x="40" y="1678">Output, agency and availability</text>
+<line x1="40" y1="1685" x2="470" y2="1685" stroke="#D5D5D5" stroke-width="1"/>
+<g class="tag"><rect x="40" y="1698" width="62" height="17" rx="2"/><text x="71.0" y="1710.3">T01-IOH</text></g>
+<text class="k-name" x="114" y="1710">Improper Output Handling</text>
+<text class="k-desc" x="114" y="1725">Unsanitised output enables XSS, SSRF or injection downstream</text>
+<text class="k-src" x="114" y="1739">LLM05 Improper Output Handling</text>
+<g class="tag"><rect x="40" y="1748" width="62" height="17" rx="2"/><text x="71.0" y="1760.3">T01-EA</text></g>
+<text class="k-name" x="114" y="1760">Excessive Agency</text>
+<text class="k-desc" x="114" y="1775">An agent or plugin acts beyond its intended scope</text>
+<text class="k-src" x="114" y="1789">LLM06 Excessive Agency</text>
+<g class="tag"><rect x="40" y="1798" width="62" height="17" rx="2"/><text x="71.0" y="1810.3">T01-DoSM</text></g>
+<text class="k-name" x="114" y="1810">Denial of Service of Model</text>
+<text class="k-desc" x="114" y="1825">Resource exhaustion degrades model availability</text>
+<text class="k-src" x="114" y="1839">LLM10 Unbounded Consumption</text>
+<g class="tag"><rect x="40" y="1848" width="62" height="17" rx="2"/><text x="71.0" y="1860.3">T01-MIS</text></g>
+<text class="k-name" x="114" y="1860">Misinformation</text>
+<text class="k-desc" x="114" y="1875">Confident but false or fabricated output</text>
+<text class="k-src" x="114" y="1889">LLM09 Misinformation</text>
+<text class="k-head" x="500" y="1484">Poisoning and supply chain</text>
+<line x1="500" y1="1491" x2="930" y2="1491" stroke="#D5D5D5" stroke-width="1"/>
+<g class="tag"><rect x="500" y="1504" width="62" height="17" rx="2"/><text x="531.0" y="1516.3">T01-DMP</text></g>
+<text class="k-name" x="574" y="1516">Data and Model Poisoning</text>
+<text class="k-desc" x="574" y="1531">Malicious training data plants bias or backdoors</text>
+<text class="k-src" x="574" y="1545">LLM04 Data and Model Poisoning</text>
+<g class="tag"><rect x="500" y="1554" width="62" height="17" rx="2"/><text x="531.0" y="1566.3">T01-DPFT</text></g>
+<text class="k-name" x="574" y="1566">Data Poisoning during Fine-Tuning</text>
+<text class="k-desc" x="574" y="1581">Poisoned feedback or logs are reused for fine-tuning</text>
+<text class="k-src" x="574" y="1595">LLM04 Data and Model Poisoning</text>
+<g class="tag"><rect x="500" y="1604" width="62" height="17" rx="2"/><text x="531.0" y="1616.3">T01-RMP</text></g>
+<text class="k-name" x="574" y="1616">Runtime Model Poisoning</text>
+<text class="k-desc" x="574" y="1631">Live inference data (RAG, caches, memory) is tampered with</text>
+<text class="k-src" x="574" y="1645">LLM04 Data and Model Poisoning</text>
+<g class="tag"><rect x="500" y="1654" width="62" height="17" rx="2"/><text x="531.0" y="1666.3">T01-SCMP</text></g>
+<text class="k-name" x="574" y="1666">Supply Chain Model Poisoning</text>
+<text class="k-desc" x="574" y="1681">Compromised third-party weights, libraries or frameworks</text>
+<text class="k-src" x="574" y="1695">LLM03 Supply Chain</text>
+<g class="tag"><rect x="500" y="1704" width="62" height="17" rx="2"/><text x="531.0" y="1716.3">T01-VEW</text></g>
+<text class="k-name" x="574" y="1716">Vector and Embedding Weaknesses</text>
+<text class="k-desc" x="574" y="1731">Manipulated embeddings or vector stores skew retrieval</text>
+<text class="k-src" x="574" y="1745">LLM08 Vector and Embedding Weaknesses</text>
+<text class="k-head" x="500" y="1778">Model theft</text>
+<line x1="500" y1="1785" x2="930" y2="1785" stroke="#D5D5D5" stroke-width="1"/>
+<g class="tag"><rect x="500" y="1798" width="62" height="17" rx="2"/><text x="531.0" y="1810.3">T01-MTU</text></g>
+<text class="k-name" x="574" y="1810">Model Theft Through Use</text>
+<text class="k-desc" x="574" y="1825">Cloning a model by systematically querying it</text>
+<text class="k-src" x="574" y="1839">AI Exchange 2.4</text>
+<g class="tag"><rect x="500" y="1848" width="62" height="17" rx="2"/><text x="531.0" y="1860.3">T01-MTR</text></g>
+<text class="k-name" x="574" y="1860">Model Theft at Runtime</text>
+<text class="k-desc" x="574" y="1875">Weights exfiltrated from memory or serving hosts</text>
+<text class="k-src" x="574" y="1889">AI Exchange 4.3</text>
+<g class="tag"><rect x="500" y="1898" width="62" height="17" rx="2"/><text x="531.0" y="1910.3">T01-MTD</text></g>
+<text class="k-name" x="574" y="1910">Model Theft During Development</text>
+<text class="k-desc" x="574" y="1925">Model assets stolen from dev pipelines or repositories</text>
+<text class="k-src" x="574" y="1939">AI Exchange 3.2.2 (MTDD in the guide text)</text>
+<text class="k-head" x="960" y="1484">Data and information leakage</text>
+<line x1="960" y1="1491" x2="1390" y2="1491" stroke="#D5D5D5" stroke-width="1"/>
+<g class="tag"><rect x="960" y="1504" width="62" height="17" rx="2"/><text x="991.0" y="1516.3">T01-SID</text></g>
+<text class="k-name" x="1034" y="1516">Sensitive Information Disclosure</text>
+<text class="k-desc" x="1034" y="1531">Output reveals PII, secrets or internal data</text>
+<text class="k-src" x="1034" y="1545">LLM02 Sensitive Information Disclosure</text>
+<g class="tag"><rect x="960" y="1554" width="62" height="17" rx="2"/><text x="991.0" y="1566.3">T01-LSID</text></g>
+<text class="k-name" x="1034" y="1566">Leak Sensitive Input Data</text>
+<text class="k-desc" x="1034" y="1581">One user's input surfaces in another user's session</text>
+<text class="k-src" x="1034" y="1595">LLM02 Sensitive Information Disclosure</text>
+<g class="tag"><rect x="960" y="1604" width="62" height="17" rx="2"/><text x="991.0" y="1616.3">T01-SPL</text></g>
+<text class="k-name" x="1034" y="1616">System Prompt Leakage</text>
+<text class="k-desc" x="1034" y="1631">Hidden system instructions exposed in responses</text>
+<text class="k-src" x="1034" y="1645">LLM07 System Prompt Leakage</text>
+<g class="tag"><rect x="960" y="1654" width="62" height="17" rx="2"/><text x="991.0" y="1666.3">T01-TDL</text></g>
+<text class="k-name" x="1034" y="1666">Training Data Leakage</text>
+<text class="k-desc" x="1034" y="1681">The model reproduces memorised raw training data</text>
+<text class="k-src" x="1034" y="1695">AI Exchange 3.2</text>
+<g class="tag"><rect x="960" y="1704" width="62" height="17" rx="2"/><text x="991.0" y="1716.3">T01-MIMI</text></g>
+<text class="k-name" x="1034" y="1716">Model Inversion and Membership Inference</text>
+<text class="k-desc" x="1034" y="1731">Inferring or reconstructing training data from outputs</text>
+<text class="k-src" x="1034" y="1745">AI Exchange 2.3.2</text>
+<line x1="40" y1="1984" x2="1400" y2="1984" stroke="#D5D5D5" stroke-width="1"/>
+<path class="flow" d="M40,2014 L84,2014" marker-end="url(#ah)"/>
+<text class="note" x="94" y="2018">Data / control flow</text>
+<path class="flow dot" d="M230,2014 L274,2014" marker-end="url(#ah)"/>
+<text class="note" x="284" y="2018">Indirect or optional flow (agents, external sources, usage data)</text>
+<rect class="badge" x="660" y="2005" width="20.5" height="17" rx="2"/><text class="badge-t" x="670.25" y="2017.5">(9)</text>
+<text class="note" x="690" y="2018">SAIF component number, referenced in the guide&#8217;s threat scenarios</text>
+<text class="note" x="40" y="2052">Adapted from Fig. 2 of the OWASP AI Testing Guide (github.com/OWASP/www-project-ai-testing-guide), licensed CC BY-SA 4.0; architecture based on Google&#8217;s Secure AI Framework (SAIF).</text>
+<text class="note" x="40" y="2070">This redraw is shared under the same CC BY-SA 4.0 licence. Input Handling (7) lists AIE twice in the original; it appears once here.</text>
+</svg>
